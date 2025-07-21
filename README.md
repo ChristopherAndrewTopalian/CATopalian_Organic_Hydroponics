@@ -17,6 +17,8 @@ We make organic hydro easy. Check it out. I promise.
 
 ---
 
+![001](src/method/plastic_bucket/plastic_bucket_with_lid/textures/001.png)  
+
 [Plastic Bucket with Lid](src/method/plastic_bucket/plastic_bucket_with_lid/plastic_bucket_with_lid.md)  
 
 ---
