@@ -5,6 +5,23 @@ The plant we put on top where the box handle is and the roots descend into the g
 
 ---
 
+Now, importantly, we start the plant in a smaller container first, to train the roots to be about 10" long and would already have air roots developed.
+
+---
+
+The idea of usin the cardboard box is that it will trick the roots into thinking that the space is massive, so it will grow very large.
+
+---
+
+We can place a bigger container of water and organic solution on the bottom instead of a gallon jug. 
+
+---
+
+The organic nutrient solution is very easy:
+1:100 ration of urine to water.
+
+---
+
 //----//
 
 // Dedicated to God the Father  
