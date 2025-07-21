@@ -3,13 +3,17 @@ We make organic hydro easy. Check it out. I promise.
 
 ---
 
-[Cardboard box on Side](src/method/cardboard_box/cardboard_box_on_side/cardboard_box_on_side.md)  
+# Organic Nutrient Solutions
 
-[Plastic Bucket with Lid](src/method/plastic_bucket/plastic_bucket_with_lid/plastic_bucket_with_lid.md)  
+[Urine Nutrient Solution](src/method/nutrient_solution/urine_nutrient_solution/urine_nutrient_solution.md)  
 
 ---
 
-[Urine Nutrient Solution](src/method/nutrient_solution/urine_nutrient_solution/urine_nutrient_solution.md)  
+# Systems
+
+[Cardboard box on Side](src/method/cardboard_box/cardboard_box_on_side/cardboard_box_on_side.md)  
+
+[Plastic Bucket with Lid](src/method/plastic_bucket/plastic_bucket_with_lid/plastic_bucket_with_lid.md)  
 
 ---
 
