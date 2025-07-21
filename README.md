@@ -3,7 +3,7 @@ We make organic hydro easy. Check it out. I promise.
 
 ---
 
-[Cardboard box](src/method/cardboard_box/cardboard_box_on_side/cardboard_box_on_side.md)  
+[Cardboard box on Side](src/method/cardboard_box/cardboard_box_on_side/cardboard_box_on_side.md)  
 
 ---
 
