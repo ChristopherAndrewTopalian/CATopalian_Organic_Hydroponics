@@ -1,5 +1,7 @@
 # Plastic Tote with lid
 
+![001](textures/001.png)
+
 With a plastic tote we have LOTS of space and the roots will sense it.
 
 One option is to place one plant in the center by cutting a whole in the lid and letting the roots descend down.
