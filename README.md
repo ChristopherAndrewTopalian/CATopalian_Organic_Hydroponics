@@ -15,6 +15,8 @@ We make organic hydro easy. Check it out. I promise.
 
 [Plastic Bucket with Lid](src/method/plastic_bucket/plastic_bucket_with_lid/plastic_bucket_with_lid.md)  
 
+[Plastic Tote with Lid](src/method/plastic_tote/plastic_tote_with_lid/plastic_tote_with_lid.md)  
+
 ---
 
 //----//
