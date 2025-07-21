@@ -19,6 +19,11 @@ We make organic hydro easy. Check it out. I promise.
 
 ---
 
+# Plant Collars
+[Plant Collars](src/method/plant_collar/plant_collar.md)  
+
+---
+
 //----//
 
 // Dedicated to God the Father  

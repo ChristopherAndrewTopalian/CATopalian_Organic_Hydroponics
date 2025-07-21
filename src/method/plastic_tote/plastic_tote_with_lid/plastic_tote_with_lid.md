@@ -27,5 +27,3 @@ Since we are using free organic nutrient solution we can change the water as muc
 // https://github.com/ChristopherTopalian  
 // https://github.com/ChristopherAndrewTopalian  
 // https://sites.google.com/view/CollegeOfScripting  
-
-
