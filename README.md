@@ -5,6 +5,8 @@ We make organic hydro easy. Check it out. I promise.
 
 [Cardboard box on Side](src/method/cardboard_box/cardboard_box_on_side/cardboard_box_on_side.md)  
 
+[Plastic Bucket with Lid](src/method/plastic_bucket/plastic_bucket_with_lid/plastic_bucket_with_lid.md)  
+
 ---
 
 //----//
