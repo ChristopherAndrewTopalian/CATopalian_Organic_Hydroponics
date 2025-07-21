@@ -18,7 +18,11 @@ We can place a bigger container of water and organic solution on the bottom inst
 ---
 
 The organic nutrient solution is very easy:
-1:100 ration of urine to water.
+1:100 ratio of urine to water.
+
+---
+
+If we don't have one large container to put the organic solution in, we can use multiple smaller containers.
 
 ---
 
