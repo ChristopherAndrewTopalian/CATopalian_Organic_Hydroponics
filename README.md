@@ -9,6 +9,10 @@ We make organic hydro easy. Check it out. I promise.
 
 ---
 
+[Urine Nutrient Solution](src/method/nutrient_solution/urine_nutrient_solution/urine_nutrient_solution.md)  
+
+---
+
 //----//
 
 // Dedicated to God the Father  
