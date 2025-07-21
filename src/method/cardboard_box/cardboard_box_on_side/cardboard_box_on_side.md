@@ -9,7 +9,7 @@ Now, importantly, we start the plant in a smaller container first, to train the 
 
 ---
 
-The idea of usin the cardboard box is that it will trick the roots into thinking that the space is massive, so it will grow very large.
+The idea of using the cardboard box is that it will trick the roots into thinking that the space is massive, so it will grow very large.
 
 ---
 
