@@ -16,7 +16,7 @@ By inserting a BOWL or GALLON JUG with nutrient solution we can easily change it
 
 We are not using a bubbler.
 Instead we change the water in the bowl whenever it needs changing.
-Since we are using free organic nutrient solution we can change the water as much as we need to without worry and because it is such a small amount of water it is very easy to do.
+Since we are using free organic nutrient solution we can change the water as much as we need to without financial concern and because it is such a small amount of water it is very easy to do.
 
 ---
 
