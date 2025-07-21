@@ -26,6 +26,16 @@ If we don't have one large container to put the organic solution in, we can use 
 
 ---
 
+The gallon jugs make it very easy to change the solution out with another gallon jug that we prepare.
+
+In this way our organic nutritent solution is always fresh and never causing the roots any kind of bacterial burden.
+
+---
+
+By using the gallon jugs we make it easy to change the nutritent solution and thus ensure a better chance at success.
+
+---
+
 //----//
 
 // Dedicated to God the Father  
