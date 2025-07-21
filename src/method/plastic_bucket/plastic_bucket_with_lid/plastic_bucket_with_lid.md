@@ -16,7 +16,7 @@ On the bottom is our organic nutrient solution that can be in a bowl or any cont
 
 ---
 
-We started the plants first in a smaller container to train them to be at least 10" first before putting them in this 5 gallon bucket system.
+We start the plants first in a smaller container to train the roots to be about 10" before putting them in this 5 gallon bucket system.
 
 ---
 
