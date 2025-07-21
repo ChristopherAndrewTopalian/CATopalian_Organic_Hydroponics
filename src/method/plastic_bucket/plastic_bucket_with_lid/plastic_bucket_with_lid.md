@@ -20,6 +20,10 @@ We start the plants first in a smaller container to train the roots to be about 
 
 ---
 
+By utilizing the 1 Gallon of nutrient solution we make it easy to change out the nutrient solution with another 1 gallon container any time it is needed. This makes success far more likely with a clean system.
+
+---
+
 //----//
 
 // Dedicated to God the Father  
