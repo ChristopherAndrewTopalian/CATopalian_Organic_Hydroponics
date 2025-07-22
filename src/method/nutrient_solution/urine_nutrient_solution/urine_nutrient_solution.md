@@ -6,12 +6,16 @@ Urine is natural organic fertilizer for plants.
 
 ---
 
-# 1:100 Ratio
+# 1:500 Ratio
 To give an idea of the ratio of how little amount of urine to water is being used, let's imagine we are filling a container the size of a 32 oz yogurt container that is half full.
 
-3 eye dropper full of 1 ml of urine is a very small amount in that 16 oz of water.
+1 eye dropper full of 1 ml of urine is a very small amount in that 16 oz of water, which is about 500 grams of water.
 
-This is about 1:158 ratio, but I give room for people possibly adding more.
+This is about 1:500 ratio.
+
+If you add more it may cause the leafs to curl from nitrogen burn.
+
+Remember that urine is very powerful plant fertilizer.
 
 ---
 
