@@ -36,6 +36,8 @@ We make organic hydro easy. Check it out. I promise.
 
 ---
 
+![002](src/method/cardboard_box/cardboard_box_on_side/textures/002.png)  
+
 //----//
 
 // Dedicated to God the Father  

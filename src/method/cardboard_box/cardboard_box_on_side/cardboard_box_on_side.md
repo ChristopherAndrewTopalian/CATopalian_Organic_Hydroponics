@@ -1,6 +1,8 @@
 # Cardboard Box on Side
 
-![001](textures/001.png)
+![001](textures/001.png)  
+
+![002](textures/002.png)  
 
 A small home depot cardboard box on its side is very tall and blocks all light. On the floor where one side sits, we place our gallon jug of water and organic solution.
 
