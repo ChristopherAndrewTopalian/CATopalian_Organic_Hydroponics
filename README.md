@@ -5,7 +5,7 @@ We make organic hydro easy. Check it out. I promise.
 
 # Organic Nutrient Solutions
 
-![001](src/method/nutrient_solution/urine_nutrient_solution/textures/001.png)  
+![001](src/method/nutrient_solution/urine_nutrient_solution/textures/002.png)  
 
 [Urine Nutrient Solution](src/method/nutrient_solution/urine_nutrient_solution/urine_nutrient_solution.md)  
 
