@@ -31,7 +31,7 @@ We make organic hydro easy. Check it out. I promise.
 
 ---
 
-![001](src/method/plastic_flower_pot/plastic_flower_pot.md/textures/001.png)  
+![001](src/method/plastic_flower_pot/textures/001.png)  
 
 [Plastic Flower Pot](src/method/plastic_flower_pot/plastic_flower_pot.md)  
 
