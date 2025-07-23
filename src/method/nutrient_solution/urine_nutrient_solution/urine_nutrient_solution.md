@@ -1,6 +1,6 @@
 # Urine Nutrient Solution
 
-![Urine is Fertilizer for Plants](textures/003.png)  
+![Urine is Fertilizer for Plants](textures/004.png)  
 
 Urine is natural organic fertilizer for plants.
 

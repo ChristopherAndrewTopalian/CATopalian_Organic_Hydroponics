@@ -5,7 +5,7 @@ We make organic hydro easy. Check it out. I promise.
 
 # Organic Nutrient Solutions
 
-![001](src/method/nutrient_solution/urine_nutrient_solution/textures/002.png)  
+![004](src/method/nutrient_solution/urine_nutrient_solution/textures/004.png)  
 
 [Urine Nutrient Solution](src/method/nutrient_solution/urine_nutrient_solution/urine_nutrient_solution.md)  
 
@@ -58,7 +58,7 @@ Because the bowl is white or clear we can see when the water is dirty and thus w
 
 If you see leafs turning yellow that means all of the nitrogen in the bowl has been used up and you need to add more urine fertilizer.
 
-You can use an eye dropper and put another 3ml of urine in the container that has about 16oz of water OR...
+You can use an eye dropper and put another 1ml of urine in the container that has about 16oz of water OR...
 
 ... or we can take the opportunity to change the water too, so that the roots will have a nice clean start of clean water and the new fertilization too.
 
