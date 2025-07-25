@@ -1,8 +1,18 @@
 # Urine Nutrient Solution
 
-![Urine is Fertilizer for Plants](textures/006.png)  
+![Urine is Fertilizer for Plants](textures/008.png)  
 
 Urine is natural organic fertilizer for plants.
+
+---
+
+# 1:75 Ratio
+NPK = 0.16 - 0.027 - 0.04
+
+---
+
+# 1:50 Ratio
+NPK = 0.24 - 0.04 - 0.06
 
 ---
 
