@@ -18,6 +18,8 @@ Urine is natural organic fertilizer for plants.
 
 > #
 
+# Element Amounts in Urine at 1:75 Ratio
+
 | Element       | Symbol | Approx. mg/L in Urine | Scaled mg/L at 1:75 | Role in Plant Growth                   |
 |---------------|--------|------------------------|----------------------|----------------------------------------|
 | Nitrogen      | N      | 12,000                 | 160                  | leaf/stem growth, chlorophyll          |
