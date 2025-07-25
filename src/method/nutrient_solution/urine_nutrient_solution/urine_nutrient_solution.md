@@ -18,6 +18,28 @@ Urine is natural organic fertilizer for plants.
 
 > #
 
+| Element       | Symbol | Approx. mg/L in Urine | Scaled mg/L at 1:75 | Role in Plant Growth                   |
+|---------------|--------|------------------------|----------------------|----------------------------------------|
+| Nitrogen      | N      | 12,000                 | 160                  | leaf/stem growth, chlorophyll          |
+| Phosphorus    | P      | 2,000                  | 26.7                 | energy transfer, root development      |
+| Potassium     | K      | 3,000                  | 40                   | water regulation, enzyme activation    |
+| Calcium       | Ca     | 230                    | 3.07                 | cell wall structure, root health       |
+| Magnesium     | Mg     | 100                    | 1.33                 | photosynthesis, enzyme cofactor        |
+| Sulfur        | S      | 90                     | 1.2                  | protein synthesis, flavor compounds    |
+| Sodium        | Na     | 4,000                  | 53.3                 | not essential but tolerated in small doses |
+| Chloride      | Cl     | 6,000                  | 80                   | osmosis and charge balance             |
+| Iron          | Fe     | 1                      | 0.013                | chlorophyll synthesis                  |
+| Manganese     | Mn     | 0.3                    | 0.004                | enzyme activation                      |
+| Zinc          | Zn     | 0.5                    | 0.007                | growth hormone production              |
+| Copper        | Cu     | 0.1                    | 0.0013               | photosynthesis, lignin synthesis       |
+| Boron         | B      | 0.3                    | 0.004                | cell wall formation, flowering         |
+| Molybdenum    | Mo     | 0.01                   | 0.00013              | nitrogen fixation, enzyme function     |
+
+
+---
+
+> #
+
 # 1:500 Ratio is likely too weak for many plants
 To give an idea of the ratio of how little amount of urine to water is being used, let's imagine we are filling a container the size of a 32 oz yogurt container that is half full.
 
