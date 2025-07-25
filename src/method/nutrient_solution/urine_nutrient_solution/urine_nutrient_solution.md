@@ -1,8 +1,16 @@
 # Urine Nutrient Solution
 
-![Urine is Fertilizer for Plants](textures/005.png)  
+![Urine is Fertilizer for Plants](textures/006.png)  
 
 Urine is natural organic fertilizer for plants.
+
+---
+
+# 1:5 Ratio
+All plants are different. This ratio may burn some plants instantly! Be careful. Start with lower ratios first!
+But, if we were shooting for a good npk, we would use the 1:5 ratio to achieve an npk of 2.4, 0.4, 0.6
+
+1:5 ratio would be about 100ml (100 grams of urine) to 500ml (500 grams) of water.
 
 ---
 
