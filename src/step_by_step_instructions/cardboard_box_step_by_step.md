@@ -14,8 +14,6 @@ But in general, if we instead close the box and seal it on all sides and then we
 
 The Bowl should be a 10" circumference 6" deep plastic bowl.
 
-These bowls cost around 50 cents or so.
-
 By cutting the access door into the bottom of the box, on the side of the box, we enable easy access to changing the nutrient bowl.
 
 Because the box is sealed, it is very strong and the plant that we place at the top of the box will now have much more support.
@@ -67,6 +65,12 @@ This is very important!
 While it might seem like more work to change the bowl often, it prevents any issues!
 
 NO issues means a good crop!
+
+The inside of the home depot small cardboard box on its side is about 11" total, so if you try a 12" bowl it will push the walls of the cardboard box out alot.  
+
+# Inexpesive Bowls
+If you have no bowls at home you can use 32oz yogurt containers, 4 of them next to each other inside the box.  
+It's not perfect, but it's one possible solution.  
 
 Happy Gardening :-)
 
