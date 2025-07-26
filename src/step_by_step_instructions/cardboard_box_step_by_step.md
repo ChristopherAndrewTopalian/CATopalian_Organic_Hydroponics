@@ -70,7 +70,7 @@ The inside of the home depot small cardboard box on its side is about 11" total,
 
 # Inexpesive Bowls
 If you have no bowls at home you can use 32oz yogurt containers, 4 of them next to each other inside the box.  
-It's not perfect, but it's one possible solution.  
+Many roots would miss, but many roots would find the water, so it is one possible solution if you really can't find any bowls.  
 
 Happy Gardening :-)
 
