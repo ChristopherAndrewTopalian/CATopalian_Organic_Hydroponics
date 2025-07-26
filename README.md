@@ -3,6 +3,15 @@ We make organic hydro easy. Check it out. I promise.
 
 ---
 
+# Principles of Hydroponics
+> 1. [Algae](src/principles_of_hydroponics/algae/algae.md)  
+> You must block all light from hitting the nutrient solution or else Algae will destroy the roots fast!
+
+> 2. [Temperature](src/principles_of_hydroponics/temperature/temperature.md)  
+> The plants REQUIRE a cool temperature for hydro to work efficiently!
+
+---
+
 # Organic Nutrient Solutions
 
 ![008](src/method/nutrient_solution/urine_nutrient_solution/textures/008.png)  
