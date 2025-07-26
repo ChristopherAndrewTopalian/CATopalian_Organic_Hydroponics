@@ -60,7 +60,7 @@ If you add too much nitrogen it may cause the leafs to curl from nitrogen burn.
 
 So in a 32 oz yogurt container, we would have 500g of water, which is about half of the container and we would use 3 eyedroppers full of urine plus .3 more.
 
-![1:100](textures/005.png)  
+![1:100](textures/010.png)  
 
 ---
 
