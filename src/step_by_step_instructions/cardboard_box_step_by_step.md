@@ -1,5 +1,7 @@
 # Cardboard Box Step by Step Instructions
 
+![003](../method/cardboard_box/cardboard_box_on_side/textures/003.png)  
+
 Let's say we choose the cardboard box method.
 
 There are many ways to utilize the cardboard box.

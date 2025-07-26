@@ -4,6 +4,8 @@
 
 ![002](textures/002.png)  
 
+![003](textures/003.png)  
+
 A small home depot cardboard box on its side is very tall and blocks all light. On the floor where one side sits, we place our gallon jug of water and organic solution.
 
 The plant we put on top where the box handle is and the roots descend into the gallon container that is on the floor in the box.
