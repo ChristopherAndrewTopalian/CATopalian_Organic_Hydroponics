@@ -12,7 +12,7 @@ But, we can always duct tape the joints to make a stronger top.
 
 But in general, if we instead close the box and seal it on all sides and then we CUT a hole that is a rectangle at the bottom of the box, then we can have access to the bowl we place there.
 
-The Bowl should be a 12" circumference 6" deep plastic bowl.
+The Bowl should be a 10" circumference 6" deep plastic bowl.
 
 These bowls cost around 50 cents or so.
 
