@@ -99,7 +99,7 @@ Remember that urine is very powerful plant fertilizer.
 # Application
 Fresh Urine is easy to use for plants, because the ammonia in it is usually constant and the urine itself does not smell bad.
 
-If you cut a water bottle at the top and pee into it and then use 3 eye droppers, then you can put that natural plant fertilizer into the yogurt container that has 500 grams of water.
+If you cut a water bottle at the top and pee into it and then collect 3 eye droppers of urine, you can then put that natural plant fertilizer into the yogurt container that has 500 grams of water.
 
 By utilizing fresh urine we have an easy way to always use a consistant amount of ammonia each time we change the nutrient bowl in our hydroponic system.  
 
