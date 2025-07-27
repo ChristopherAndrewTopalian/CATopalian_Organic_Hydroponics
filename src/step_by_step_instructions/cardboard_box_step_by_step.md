@@ -72,7 +72,7 @@ The inside of the home depot small cardboard box on its side is about 11" total,
 If you have no bowls at home you can use 32oz yogurt containers, 4 of them next to each other inside the box.  
 Many roots would miss, but many roots would find the water, so it is one possible solution if you really can't find any bowls.  
 
-You can also try Gallon Jugs that have their tops cut off and put 4 of them next to each other.  
+You can also try Gallon Jugs (milk jugs or water jugs, etc) that have their tops cut off and put 4 of them next to each other.  
 
 The Home depot 5 Gallon Bucket will fit inside of the Small Home Depot Cardboard Box. 
 
