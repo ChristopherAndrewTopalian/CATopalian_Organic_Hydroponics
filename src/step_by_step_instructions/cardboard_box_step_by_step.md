@@ -1,12 +1,19 @@
 # Cardboard Box Step by Step Instructions
 
+![004](../method/cardboard_box/cardboard_box_on_side/textures/004.png)  
+Note: The seedling shown in this image was damaged prior due to algae experiments.  
+
+As you can see, we just have a cardboard box with a yogurt container inside that is sitting on top of any rectangle objects to help rise to where the roots are currently grown.  
+
+---
+
 ![003](../method/cardboard_box/cardboard_box_on_side/textures/003.png)  
 
-Let's say we choose the cardboard box method.
+---
 
-There are many ways to utilize the cardboard box.
+OR
 
-If we keep the box the way it is, it is kind of weak.
+We could alternatively cut close the box and cut a hole in the side, but that would be ruining a good box that might be used later.  
 
 But, we can always duct tape the joints to make a stronger top.
 
