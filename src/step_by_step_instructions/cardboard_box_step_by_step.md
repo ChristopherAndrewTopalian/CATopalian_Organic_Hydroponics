@@ -74,6 +74,14 @@ Many roots would miss, but many roots would find the water, so it is one possibl
 
 You can also try Gallon Jugs that have their tops cut off and put 4 of them next to each other.  
 
+The Home depot 5 Gallon Bucket will fit inside of the Small Home Depot Cardboard Box. 
+
+This is one way to make our bucket light proof, or we could just wrap a black trashbag around the bucket and tape it together.  
+
+But, with the cardboard box, we get to use a smaller netpot easily by cutting a small hole in the top of the cardboard box, which is on its side.  
+
+There are many ways to do it of course, so choose the easiest set up for you.  
+
 Happy Gardening :-)
 
 ---
