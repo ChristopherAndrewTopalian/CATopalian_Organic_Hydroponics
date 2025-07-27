@@ -84,6 +84,10 @@ Of course we can use a square of cardboard over the bucket itself to do the same
 
 There are many ways to do it of course, so choose the easiest set up for you.  
 
+But the power of using a Bowl is very simple: Easy to replace and uses less water. It can also be positioned where we want, height wise, to meet the roots where needed.  
+
+The bowl method makes many things easier, including keeping the solution consistantly fresh.  
+
 Happy Gardening :-)
 
 ---
