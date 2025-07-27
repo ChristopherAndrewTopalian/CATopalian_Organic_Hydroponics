@@ -80,7 +80,7 @@ This is one way to make our bucket light proof, or we could just wrap a black tr
 
 We can install the a netpot easily by cutting a small hole in the top of the cardboard box, which is on its side.  
 
-Of course we can use a square of cardboard over the bucket itself to do the same, but it depends on if we want to put our solution in it or use it as a shelter for a bowl or other more sterile container.  
+Of course we can use a square of cardboard over the bucket itself to do the same. If the 5 gallon bucket is clean, we can use it for our nutrient solution, but if it is dirty, we would perhaps just use it for a shelter for a bowl we put inside, with the plant either in a 6" net pot or in a smaller net pot but in a hole cut into cardboard ontop of the 5 gallon bucket.  
 
 There are many ways to do it of course, so choose the easiest set up for you.  
 
