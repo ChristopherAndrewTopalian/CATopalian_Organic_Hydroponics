@@ -7,6 +7,9 @@
 ![004](textures/004.png)  
 The seedling shown in this image had been damaged from previous algae from other experiments.  
 
+I like this method shown above, because we can remove the rectangle objects one by one as the roots descend downward.
+This grows very big plants very easily and very quickly and with very little amounts of water.
+
 ---
 
 ![003](textures/003.png)  
