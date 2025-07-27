@@ -78,9 +78,9 @@ The Home depot 5 Gallon Bucket will fit inside of the Small Home Depot Cardboard
 
 This is one way to make our bucket light proof, or we could just wrap a black trashbag around the bucket and tape it together.  
 
-We install the a netpot easily by cutting a small hole in the top of the cardboard box, which is on its side.  
+We can install the a netpot easily by cutting a small hole in the top of the cardboard box, which is on its side.  
 
-Of course we can use a square of cardboard over the bucket itself to do the same, but it depends on the quality of the bucket and if we want to put our solution in it or use it as a shelter for a bowl or other more sterile container.  
+Of course we can use a square of cardboard over the bucket itself to do the same, but it depends on if we want to put our solution in it or use it as a shelter for a bowl or other more sterile container.  
 
 There are many ways to do it of course, so choose the easiest set up for you.  
 
