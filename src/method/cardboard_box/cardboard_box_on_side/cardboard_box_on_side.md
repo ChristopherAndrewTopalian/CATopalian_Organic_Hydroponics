@@ -68,9 +68,9 @@ By choosing a CLEAR container we can see the roots progress and know exactly wha
 
 But remember, you must seal the box 100% from light!
 
-Your success depends on keeping light from hitting the nutrient solution.
+Out success depends on keeping light from hitting the nutrient solution.
 
-Thus, you must tape the corners of the box that allow any light in and wrap the nutrient container in black plastic.  
+Thus, we must tape the corners of the box that allow any light in and wrap the nutrient container in black plastic.  
 
 When you want to check the roots progress you can pull the black plastic down a bit and notice the water level easily. 
 
