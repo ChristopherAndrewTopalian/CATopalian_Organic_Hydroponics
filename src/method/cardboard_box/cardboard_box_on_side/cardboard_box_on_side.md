@@ -66,9 +66,9 @@ By using the black plastic trash bag wrapped around the nutrient container we ca
 
 By choosing a CLEAR container we can see the roots progress and know exactly what level they are touching the water.
 
-But remember, you must seal the box 100% from light!
+But remember, we must seal the box 100% from light!
 
-Out success depends on keeping light from hitting the nutrient solution.
+Our success depends on keeping light from hitting the nutrient solution.
 
 Thus, we must tape the corners of the box that allow any light in and wrap the nutrient container in black plastic.  
 
