@@ -72,7 +72,7 @@ Our success depends on keeping light from hitting the nutrient solution.
 
 Thus, we must tape the corners of the box that allow any light in and wrap the nutrient container in black plastic.  
 
-When you want to check the roots progress you can pull the black plastic down a bit and notice the water level easily. 
+When we want to check the roots progress we can pull the black plastic down a bit and notice the water level easily. 
 
 After checking the water level and root conditions we put the black plastic back over the nutrient container!
 
