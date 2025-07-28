@@ -59,10 +59,10 @@ By using the gallon jugs we make it easy to change the nutritent solution and th
 
 ---
 
-# Black Trash Bag Taped Around Container
-It's a good idea to tape a black plastic trash bag around our container to ensure NO light hits the nutrient water. ALGAE RUINS PLANTS FAST!
+# Black Trash Bag Taped Around Nutrient Container
+It's a good idea to tape a black plastic trash bag around our nutrient container to ensure NO light hits the nutrient water. ALGAE RUINS PLANTS FAST!
 
-By using the black plastic trash bag wrapped around the container we can choose a CLEAR container.
+By using the black plastic trash bag wrapped around the nutrient container we can choose a CLEAR container.
 
 By choosing a CLEAR container we can see the roots progress and know exactly what level they are touching the water.
 
