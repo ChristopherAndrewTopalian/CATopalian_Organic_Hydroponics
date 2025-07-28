@@ -116,7 +116,7 @@ By utilizing fresh urine we have an easy way to always use a consistent amount o
 
 If we use 860 grams of water, then to achieve a 1:150 ratio we would add 5.73 grams of urine.  
 
-860 grams of water is the just about the top spill line of the yogurt container (32oz container)   
+860 grams of water is just about the top spill line of the yogurt container (32oz container)   
 
 //----//
 
