@@ -103,6 +103,21 @@ If you cut a water bottle at the top and pee into it and then collect 3 eye drop
 
 By utilizing fresh urine we have an easy way to always use a consistent amount of ammonia each time we change the nutrient bowl in our hydroponic system.  
 
+---
+
+> #
+
+# Using more water
+
+![1:150](textures/011.png)  
+
+* 860 Grams of Water  
+* 5.73 Grams of Urine (5.73ml)  
+
+If we use 860 grams of water, then to achieve a 1:150 ratio we would add 5.73 grams of urine.  
+
+860 grams of water is the just about the top spill line of the yogurt container (32oz container)   
+
 //----//
 
 // Dedicated to God the Father  
