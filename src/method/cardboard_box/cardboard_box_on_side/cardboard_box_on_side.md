@@ -12,6 +12,14 @@ This grows very big plants very easily and very quickly and with very little amo
 
 ---
 
+![005](textures/005.png)  
+
+Here we see two carboard boxes next to each other, each with their own single plant at the top, with their roots descending down into the cardboard box to find the nutrient solution in the yogurt container.  
+
+> #
+
+---
+
 ![003](textures/003.png)  
 
 A small home depot cardboard box on its side is very tall and blocks all light. On the floor where one side sits, we place our gallon jug of water and organic solution.
