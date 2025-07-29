@@ -32,11 +32,13 @@ Now, importantly, we start the plant in a smaller container first, to train the 
 
 ---
 
-The idea of using the cardboard box is that it will trick the roots into thinking that the space is massive, so it will grow very large.
+The idea of using the cardboard box is that the roots into will think that the growing room space is massive, so it will grow very large.
 
 ---
 
-We can place a bigger container of water and organic solution on the bottom instead of a gallon jug. 
+We can use a bigger container for the nutrient solution instead of a gallon jug.  
+
+Just make sure to measure inside your box before buying bowls. Home depot small box will be about an 11" bowl at the max.  
 
 ---
 
