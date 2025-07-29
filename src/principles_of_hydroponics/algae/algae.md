@@ -18,7 +18,7 @@ Removing algae is super easy.
 2. 400 Grams of Water
 3. 4 Grams of Hydrogen Peroxide
 4. Soak the roots for 20 minutes.
-5. Take a water bottle and fill it with water. Put the cap on. Poke a hole in the cap with a sharp screw. Use this water bottle to JET the roots clean with water! It works excellent! The roots go from green to white with pretty much one bottle of water for seedlings!.
+5. Take another water bottle and fill it with water. Put the cap on. Poke a hole in the cap with a sharp screw. We use this water bottle to JET the roots clean with water! It works excellent! The roots go from green to white with pretty much one bottle of water for seedlings!
 
 We can use an empty yogurt container and place the roots against it as we JET water into the roots to clean them.
 
