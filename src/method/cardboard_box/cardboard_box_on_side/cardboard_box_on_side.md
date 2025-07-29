@@ -38,7 +38,7 @@ The idea of using the cardboard box is that the roots into will think that the g
 
 We can use a bigger container for the nutrient solution instead of a gallon jug.  
 
-Just make sure to measure inside your box before buying bowls. Home depot small box will be about an 11" bowl at the max.  
+Just make sure to measure inside your box before buying bowls. Home depot small cardboard box will allow about an 11" bowl at the max, which would be very snug.  
 
 ---
 
