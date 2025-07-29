@@ -15,8 +15,8 @@ Always change the water immediately if you see any algae!
 # Algae Removal
 Removing algae is super easy.
 1. Cut a water bottle at the top.
-2. 400 Grams of Water
-3. 4 Grams of Hydrogen Peroxide
+2. 400 Grams of Water to soak the roots in
+3. 4 Grams of Hydrogen Peroxide in the water
 4. Soak the roots for 20 minutes.
 5. Take another water bottle and fill it with water. Put the cap on. Poke a hole in the cap with a sharp screw. We use this water bottle to JET the roots clean with water! It works excellent! The roots go from green to white with pretty much one bottle of water for seedlings!
 
