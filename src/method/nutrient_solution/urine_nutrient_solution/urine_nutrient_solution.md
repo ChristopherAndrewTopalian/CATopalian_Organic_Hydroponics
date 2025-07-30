@@ -122,8 +122,8 @@ If we use 860 grams of water, then to achieve a 1:150 ratio we would add 5.73 gr
 
 # Epsom Salt REQUIRED
 * 860 grams of water
-* 0.86 grams of Epsom salt
-* Ratio: 1:1000 (Epsom salt : water)
+* 5 grams of Epsom salt
+* Ratio: 1:172 (Epsom salt : water)
 
 ---
 
