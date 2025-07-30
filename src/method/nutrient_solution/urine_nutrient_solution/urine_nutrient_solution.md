@@ -118,6 +118,35 @@ If we use 860 grams of water, then to achieve a 1:150 ratio we would add 5.73 gr
 
 860 grams of water is just about the top spill line of the yogurt container (32oz container)   
 
+---
+
+# Epsom Salt REQUIRED
+* 860 grams of water
+* 0.86 grams of Epsom salt
+* Ratio: 1:1000 (Epsom salt : water)
+
+---
+
+# Urine is strong in:
+
+* Nitrogen (N) – mainly urea, which converts to ammonia/nitrate.
+
+* Phosphorus (P) – in smaller amounts.
+
+* Potassium (K) – often pretty decent.
+
+# But urine typically lacks enough:
+
+* Magnesium (Mg)
+
+* Calcium (Ca)
+
+* Sulfur (S)
+
+That’s where Epsom salt (MgSO₄·7H₂O) steps in beautifully.
+
+---
+
 //----//
 
 // Dedicated to God the Father  
