@@ -152,6 +152,8 @@ That’s where Epsom salt (MgSO₄·7H₂O) steps in beautifully.
 # Experiments
 * [Experiment 001](experiments/0001/0001.md)  
 
+* [Experiment 002](experiments/0002/0002.md)  
+
 ---
 
 //----//
