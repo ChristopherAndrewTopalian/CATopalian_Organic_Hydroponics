@@ -11,8 +11,9 @@ Urine is natural organic fertilizer for plants.
 * Fill with soil
 * Every day pour your urine
 * After 7 to 10 days run water through
-* Catch runoff in bowl
-It's Sodium Free Organic Plant Fertilizer!
+* Catch runoff in bowl  
+
+It's Sodium Free Organic Plant Fertilizer!  
 It's Hydroponics made easy!
 
 # [Sodium Removal](sodium_removal/sodium_removal.md)  
