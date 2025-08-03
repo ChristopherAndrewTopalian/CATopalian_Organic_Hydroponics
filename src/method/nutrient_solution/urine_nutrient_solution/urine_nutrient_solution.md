@@ -18,16 +18,20 @@ Urine is natural organic fertilizer for plants.
 It's Sodium Free Organic Plant Fertilizer!  
 It's Hydroponics made easy!
 
-# [Sodium Removal](sodium_removal/sodium_removal.md)  
+## [Sodium Removal](sodium_removal/sodium_removal.md)  
 
 ---
 
 > #
 
-# Or
+# OR  
 
 # We can use the Urine directly when FRESH
 But it is mostly UREA that will be converting to Ammonia, which is not as good for plants!  
+
+BUT, it appears it requires MICROBES from SOIL to CONVERT the UREA to AMMONIA.  
+
+[Soil Added for Microbial Life](soil_added_for_microbial_life/soil_added_for_microbial_life.md)  
 
 ---
 
