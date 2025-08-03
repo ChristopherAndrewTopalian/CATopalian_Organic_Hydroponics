@@ -101,14 +101,14 @@ In fact, **most commercial plant growers use potassium nitrate** in flowering st
 
 ## 🪴 Summary — Your Today Plan
 
-✅ **Fill** 5-gallon bucket 4.5 gallons with soil
-✅ **Drill** 4–8 holes at base (1/4" to 3/8" ideal)
-✅ **Place** catch bucket underneath
-✅ **Add urine daily** (1 yogurt container / day = 50–100 mL)
-✅ **Wait 7–10 days** (add nothing after day 10)
-✅ **Wait 4–5 more days** (microbial processing)
-✅ **Pour water through** (500–1000 mL)
-✅ **Catch leachate**
+✅ **Fill** 5-gallon bucket 4.5 gallons with soil  
+✅ **Drill** 4–8 holes at base (1/4" to 3/8" ideal)  
+✅ **Place** catch bucket underneath  
+✅ **Add urine daily** (1 yogurt container / day = 50–100 mL)  
+✅ **Wait 7–10 days** (add nothing after day 10)  
+✅ **Wait 4–5 more days** (microbial processing)  
+✅ **Pour water through** (500–1000 mL)  
+✅ **Catch leachate**  
 ✅ **Evaporate for crystals or use as-is diluted in hydroponics**
 
 ---
