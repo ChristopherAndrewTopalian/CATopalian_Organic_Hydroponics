@@ -4,6 +4,12 @@
 
 # Methods
 
+[soil_microbe_processing](methods/soil_microbe_processing/soil_microbe_processing_a.md)  
+
+[soil_microbe_processing](methods/soil_microbe_processing/soil_microbe_processing_b.md)  
+
+---
+
 ## Farmers could run fresh urine through an ion exchange barrel, reduce sodium by 80 to 95% and collect the output as low sodium fertilizer.
 
 ---
