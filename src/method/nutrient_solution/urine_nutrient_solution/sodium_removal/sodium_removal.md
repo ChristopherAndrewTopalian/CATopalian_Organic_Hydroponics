@@ -13,6 +13,8 @@
 
 [Soil Microbe Processing E](methods/soil_microbe_processing/soil_microbe_processing_e.md)  
 
+[Soil Microbe Processing F](methods/soil_microbe_processing/soil_microbe_processing_f.md)  
+
 ---
 
 # Other ideas
