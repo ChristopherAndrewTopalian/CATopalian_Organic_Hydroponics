@@ -17,6 +17,8 @@
 
 [Soil Microbe Processing G](methods/soil_microbe_processing/soil_microbe_processing_g.md)  
 
+[Soil Microbe Processing H](methods/soil_microbe_processing/soil_microbe_processing_h.md)  
+
 ---
 
 # Other ideas
