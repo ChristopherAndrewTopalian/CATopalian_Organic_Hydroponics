@@ -18,6 +18,17 @@ We make organic hydro easy. Check it out. I promise.
 
 [Urine Nutrient Solution](src/method/nutrient_solution/urine_nutrient_solution/urine_nutrient_solution.md)  
 
+## Organic Plant Fertilizer
+### Microbial Nitrate Extractor
+* 5 gallon bucket
+* Drill holes at bottom
+* Fill with soil
+* Every day pour your urine
+* After 7 to 10 days run water through
+* Catch runoff in bowl
+It's Sodium Free Organic Plant Fertilizer!
+It's Hydroponics made easy!
+
 ---
 
 # Systems

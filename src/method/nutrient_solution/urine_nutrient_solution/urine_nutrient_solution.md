@@ -4,6 +4,25 @@ Urine is natural organic fertilizer for plants.
 
 ---
 
+## Organic Plant Fertilizer
+### Microbial Nitrate Extractor
+* 5 gallon bucket
+* Drill holes at bottom
+* Fill with soil
+* Every day pour your urine
+* After 7 to 10 days run water through
+* Catch runoff in bowl
+It's Sodium Free Organic Plant Fertilizer!
+It's Hydroponics made easy!
+
+# [Sodium Removal](sodium_removal/sodium_removal.md)  
+
+---
+
+Or we can use the Urine directly when FRESH, but it is mostly UREA that will be converting to Ammonia, which is not as good for plants!  
+
+---
+
 | Dilution Ratio | Urine (g) | Water (g) | Total (g) | NPK (Approx)     |
 |----------------|-----------|-----------|-----------|------------------|
 | 1:500          | 1         | 500       | 501       | 0.024, 0.004, 0.006 |
@@ -155,10 +174,6 @@ That’s where Epsom salt (MgSO₄·7H₂O) steps in beautifully.
 * [Experiment 002](experiments/0002/0002.md)  
 
 * [Experiment 003](experiments/0003/0003.md)  
-
----
-
-# [Sodium Removal Ideas](sodium_removal/sodium_removal.md)
 
 ---
 
