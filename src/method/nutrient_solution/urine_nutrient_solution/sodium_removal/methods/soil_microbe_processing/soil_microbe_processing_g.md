@@ -112,7 +112,7 @@ This two-bucket system transforms human urine into a **clean, low-sodium, organi
 
 Now farmers and home growers can produce potassium nitrate safely without relying on imports, industrial ammonia, or expensive fertilizer bags.  
 
-Friends: Listen: The Super Volcanoes will go off and crops will fail. The Ice Age begins very fast. Make sure that you learn how to farm hydroponically using urine because it is one of the things that all humans will have access to in the event of total crop failure world wide!  
+Friends: Listen: The Super Volcanoes will go off and crops will fail. The Ice Age begins very fast. Make sure that you learn how to farm hydroponically using urine because it is one of the things that all humans will have access to in the event of an ice age and total industrial agricultural crop failure world wide!  
 
 ---
 
