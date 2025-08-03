@@ -158,7 +158,7 @@ That’s where Epsom salt (MgSO₄·7H₂O) steps in beautifully.
 
 ---
 
-# Sodium Removal Ideas [sodium_removal](sodium_removal/sodium_removal.md)
+# [Sodium Removal Ideas](sodium_removal/sodium_removal.md)
 
 ---
 
