@@ -68,6 +68,9 @@ We’ll walk through:
 * Let water fully drain through into the catch basin below.
 * Collect and store runoff in clean bottles. This is your **potassium nitrate fertilizer solution**.
 
+### Day 17: Evaporation
+For a more concentrated fertilizer we can allow the water to evaporate naturally. What remains in the container will be potassium nitrate in a very stable form that is plant ready immediately! Plants want potassium nitrate!  
+
 ---
 
 ## 📊 Nutrient Profile Estimate (Post-Flush)
