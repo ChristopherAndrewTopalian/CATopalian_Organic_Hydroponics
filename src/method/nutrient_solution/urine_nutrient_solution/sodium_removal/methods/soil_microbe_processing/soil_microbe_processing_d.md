@@ -128,8 +128,6 @@ We have recreated a **civilization-sustaining fertilizer system**, with:
 
 ---
 
----
-
 //----//
 
 // Dedicated to God the Father  
