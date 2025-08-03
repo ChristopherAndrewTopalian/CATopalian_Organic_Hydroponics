@@ -10,7 +10,7 @@ To provide a scientifically-grounded overview of how the addition of **soil to a
 
 ## 🧪 Background
 
-When human urine is diluted in water (typically 1:10 to 1:30), it becomes a potential fertilizer rich in **urea (nitrogen source)**, **potassium**, and **phosphorus**. However:
+When human urine is diluted in water (typically 1:20 to 1:30), it becomes a potential fertilizer rich in **urea (nitrogen source)**, **potassium**, and **phosphorus**. However:
 
 * **Urea** must first be **converted into ammonium (NH₄⁺)**, then optionally into **nitrate (NO₃⁻)** for optimal plant uptake.
 * This conversion does **not occur efficiently in plain water**, even well water. It requires **microbial activity**.
