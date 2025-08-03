@@ -1,12 +1,10 @@
 # Sodium Removal
 
-# IDEAS
-
 # Methods
 
-[soil_microbe_processing](methods/soil_microbe_processing/soil_microbe_processing_a.md)  
+[Soil Microbe Processing A](methods/soil_microbe_processing/soil_microbe_processing_a.md)  
 
-[soil_microbe_processing](methods/soil_microbe_processing/soil_microbe_processing_b.md)  
+[Soil Microbe Processing B](methods/soil_microbe_processing/soil_microbe_processing_b.md)  
 
 ---
 
