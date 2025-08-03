@@ -19,7 +19,12 @@ It's Hydroponics made easy!
 
 ---
 
-Or we can use the Urine directly when FRESH, but it is mostly UREA that will be converting to Ammonia, which is not as good for plants!  
+> #
+
+# Or
+
+# We can use the Urine directly when FRESH
+But it is mostly UREA that will be converting to Ammonia, which is not as good for plants!  
 
 ---
 
