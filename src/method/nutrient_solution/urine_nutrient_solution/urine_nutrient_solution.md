@@ -49,6 +49,8 @@ Thus, for the hydroponic system we have made, we are choosing the NITRIFICATION 
 
 [Soil Added for Microbial Life](soil_added_for_microbial_life/soil_added_for_microbial_life.md)  
 
+[Ice Age Considerations](ice_age_considerations/ice_age_considerations.md)  
+
 ---
 
 | Dilution Ratio | Urine (g) | Water (g) | Total (g) | NPK (Approx)     |
