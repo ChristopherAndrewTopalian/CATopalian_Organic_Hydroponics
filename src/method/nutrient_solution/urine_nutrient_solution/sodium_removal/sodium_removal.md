@@ -22,8 +22,11 @@
 ---
 
 # Soil Filtration
-Let's say we have a container with holes at the bottom.  
-We can put soil in the container and then pour urine into the soil and have the soil filter out the sodium while the lower sodium urine falls into a container we have underneath.  
+* Container with many 1/8" holes in the bottom 
+* Soil in the container
+* Pour urine into the soil
+* The soil filters out the sodium
+* The reduced-sodium-urine falls into a container we have underneath.  
 
 In this way we don't have to wait very long at all for the urine to be useable for our hydroponic systems.
 
