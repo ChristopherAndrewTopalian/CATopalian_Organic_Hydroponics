@@ -22,7 +22,8 @@
 ---
 
 # Soil Filtration
-[link](methods/soil_filtration/soil_filtration.md)
+[link](methods/soil_filtration/soil_filtration.md)  
+
 * Container with many 1/8" holes in the bottom 
 * Soil in the container
 * Another container underneath catches what comes out.  
