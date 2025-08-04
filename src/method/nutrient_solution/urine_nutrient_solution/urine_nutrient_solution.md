@@ -4,6 +4,8 @@ Urine is natural organic fertilizer for plants.
 
 [Urine Conversion Process](urine_conversion_process/urine_conversion_process.md)  
 
+[Potassium Nitrate VS Ammonium Nitrate](potassium_nitrate_vs_ammonium_nitrate/potassium_nitrate_vs_ammonium_nitrate.md)  
+
 ---
 
 ## Organic Plant Fertilizer
