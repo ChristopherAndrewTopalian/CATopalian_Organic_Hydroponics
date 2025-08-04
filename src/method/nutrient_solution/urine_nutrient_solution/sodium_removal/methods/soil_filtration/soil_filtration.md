@@ -5,7 +5,7 @@
 
 When we pour urine into soil, much of the sodium in the urine will end up staying in the soil, due to electrostatic charges.
 
-Thus, when we have a yogrut container that is 32 oz and has many 1/8" holes at the bottom and we fill it to the top with dirt and then pour urine in at 300 grams, about 55 grams will end up in the bottom container that consists of reduced sodium urine.  
+Thus, when we have a yogurt container that is 32 oz and has many 1/8" holes at the bottom and we fill it to the top with dirt and then pour urine in at 300 grams, about 55 grams will end up in the bottom container that consists of reduced sodium urine.  
 
 This reduced sodium urine can be used in our hydroponics.  
 
