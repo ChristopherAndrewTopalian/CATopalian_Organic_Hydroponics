@@ -41,7 +41,7 @@ This means that more microbes will convert the Urea into Ammonia.
 
 Keep in mind that this technique of SOIL FILTERING results in ammonia instead of potassium nitrate and thus is NOT as healthy for plants!  
 
-The reduced sodium urine is a nutrient method that is using AMMONIA for the nitrogen, but the plants do NOT like that form as much as Potassium Nitriate that we get from SOIL MICROBE PROCESSING, which takes baout 10 days or more to process.  
+The reduced sodium urine is a nutrient method that is using AMMONIA for the nitrogen, but the plants do NOT like that form as much as Potassium Nitriate that we get from SOIL MICROBE PROCESSING, which takes about 10 days or more to process.  
 
 ---
 
