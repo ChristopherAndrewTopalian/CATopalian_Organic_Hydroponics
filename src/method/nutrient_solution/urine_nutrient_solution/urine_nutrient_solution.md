@@ -29,9 +29,19 @@ It's Hydroponics made easy!
 # OR  
 
 # We can use the Urine directly when FRESH
-But it is mostly UREA that will be converting to Ammonia, which is not as good for plants!  
+But it is mostly UREA that will be converting to Ammonia, which is not good for plants! Plants want AMMONIUM!
 
-BUT, it appears it requires MICROBES from SOIL to CONVERT the UREA to AMMONIA.  
+**Ammonia + Water → Ammonium**
+This is pH-dependent:
+
+```
+NH₃ + H⁺ → NH₄⁺
+```
+
+* If your water/soil pH is **acidic to neutral (pH 6–7)**, more **ammonium** is formed.
+* Plants **prefer ammonium (NH₄⁺)** in small doses — it's gentle and easy to absorb.
+
+---
 
 [Soil Added for Microbial Life](soil_added_for_microbial_life/soil_added_for_microbial_life.md)  
 
