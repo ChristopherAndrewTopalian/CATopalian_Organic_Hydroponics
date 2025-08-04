@@ -30,8 +30,8 @@ It's Hydroponics made easy!
 
 # OR  
 
-# We can use the Urine directly when FRESH
-But it is mostly UREA that will be converting to Ammonia, which is not good for plants! Plants want AMMONIUM!
+# Can we apply the Urine directly when FRESH?
+It is mostly UREA that will be converting to Ammonia OVER TIME, which is not good for plants! Plants want AMMONIUM or Potassium Nitrate for hydro systems!
 
 **Ammonia + Water → Ammonium**
 This is pH-dependent:
@@ -42,6 +42,8 @@ NH₃ + H⁺ → NH₄⁺
 
 * If your water/soil pH is **acidic to neutral (pH 6–7)**, more **ammonium** is formed.
 * Plants **prefer ammonium (NH₄⁺)** in small doses — it's gentle and easy to absorb.
+
+Thus, for the hydroponic system we have made, we are choosing the NITRIFICATION TOWER METHOD to produce POTASSIUM NITRATE, because it is the most stable for plants in a hydroponic design.  
 
 ---
 
