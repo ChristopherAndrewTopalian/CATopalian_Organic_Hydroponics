@@ -21,6 +21,18 @@
 
 ---
 
+# Soil Filtration
+Let's say we have a container with holes at the bottom.  
+We can put soil in the container and then pour urine into the soil and have the soil filter out the sodium while the lower sodium urine falls into a container we have underneath.  
+
+In this way we don't have to wait very long at all for the urine to be useable for our hydroponic systems.
+
+In addition we are adding microbes to the solution, because the urine passing through the dirt makes some of the dirt end up in the solution below.  
+
+Soil is negatively charged while sodium is positively charged and thus they cling to each other.  
+
+---
+
 # Other ideas
 
 ## Farmers could run fresh urine through an ion exchange barrel, reduce sodium by 80 to 95% and collect the output as low sodium fertilizer.
