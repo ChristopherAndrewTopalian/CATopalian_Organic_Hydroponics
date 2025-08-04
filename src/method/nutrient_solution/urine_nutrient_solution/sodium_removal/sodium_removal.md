@@ -26,7 +26,7 @@
 * Soil in the container
 * Another container underneath catches what comes out.  
 * Pour urine into the soil
-* The soil filters out the sodium
+* The soil filters out much of the sodium
 * The reduced-sodium-urine falls into a container we have underneath.  
 
 In this way we don't have to wait very long at all for the urine to be useable for our hydroponic systems.
