@@ -24,8 +24,8 @@
 # Soil Filtration
 * Container with many 1/8" holes in the bottom 
 * Soil in the container
-* Pour urine into the soil
 * Another container underneath catches what comes out.  
+* Pour urine into the soil
 * The soil filters out the sodium
 * The reduced-sodium-urine falls into a container we have underneath.  
 
