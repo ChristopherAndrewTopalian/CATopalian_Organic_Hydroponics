@@ -2,6 +2,10 @@
 
 ## 🌱 Yogurt Container Nitrate Reactor (Mini Soil Column)
 
+![001](textures/001.png)  
+
+![002](textures/002.png)  
+
 ### Small-Scale Fertilizer Maker for Evaporation or Direct Use
 
 ---
