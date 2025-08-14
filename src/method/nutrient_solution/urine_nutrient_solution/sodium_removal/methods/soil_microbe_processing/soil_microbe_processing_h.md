@@ -121,6 +121,20 @@ Even at small scale:
 
 ---
 
+# Experiment:
+## Parameters
+* 32 Oz of Soil
+* 300 grams of Urine Added once a day  
+* Let it sit for 7 days
+* Pour 500ml of water and collect the 'black tea' liquid.  
+* Testing applying it as a nutritent solution for hydroponic Plant 2.
+* No dilution was used.  
+* Plant 2 has major algae issue from being outside in incorrect container  
+
+Goal: Goal is to see if, even with algae damage this plant will show signs of growth from the pure undiluted nutrient solution, which should consist of very low sodium potassium nitrate water.  
+
+![003](textures/003.png)  
+
 //----//
 
 // Dedicated to God the Father  
