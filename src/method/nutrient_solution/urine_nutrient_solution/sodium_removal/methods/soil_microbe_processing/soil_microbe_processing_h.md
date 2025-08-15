@@ -136,7 +136,9 @@ Goal: Goal is to see if, even with algae damage this plant will show signs of gr
 ![003](textures/003.png)  
 
 # Experiment Results
-* Day 001 - Good Results so far. Plant looks healthy.
+* Day 001 - Plant showed both leafs drooping down badly. Not leaf curling, but instead total leaf drooping.
+
+> Conclusion: 1:1 Ratio is extreme and should not be applied to hydroponic plants
 
 //----//
 
