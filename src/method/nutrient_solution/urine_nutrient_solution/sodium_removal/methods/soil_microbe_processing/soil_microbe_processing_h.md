@@ -135,6 +135,9 @@ Goal: Goal is to see if, even with algae damage this plant will show signs of gr
 
 ![003](textures/003.png)  
 
+# Experiment Results
+* Day 001 - Good Results so far. Plant looks healthy.
+
 //----//
 
 // Dedicated to God the Father  
