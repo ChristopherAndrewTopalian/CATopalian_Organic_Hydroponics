@@ -138,7 +138,11 @@ Goal: Goal is to see if, even with algae damage this plant will show signs of gr
 # Experiment Results
 * Day 001 - Plant showed both leafs drooping down badly. Not leaf curling, but instead total leaf drooping.
 
-> Conclusion: 1:1 Ratio is extreme and should not be applied to hydroponic plants
+Day 002 - Plant has recovered from the 1:1 ratio over fertilization.  
+Plant is using about 1:50 now and showing good signs of health.
+
+> Conclusion: 1:1 Ratio is extreme and should not be applied to hydroponic plants.
+Always dilute the nutrient mix to ensure proper plant health.
 
 //----//
 
