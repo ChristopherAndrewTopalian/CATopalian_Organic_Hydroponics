@@ -14,9 +14,11 @@ We make organic hydro easy. Check it out. I promise.
 
 # Organic Nutrient Solutions
 
-![008](src/method/nutrient_solution/urine_nutrient_solution/textures/008.png)  
+[Urine Nutrient Solution](src/method/nutrient_solution/urine_nutrient_solution/phosphorous/struvite/crystallizing_struvite_to_concentrate_phosphorous.md)  
 
-[Urine Nutrient Solution](src/method/nutrient_solution/urine_nutrient_solution/urine_nutrient_solution.md)  
+[Phosphateification Tower](src/method/nutrient_solution/urine_nutrient_solution/urine_nutrient_solution.md)  
+
+---
 
 ## Organic Plant Fertilizer
 ### Microbial Nitrate Extractor
