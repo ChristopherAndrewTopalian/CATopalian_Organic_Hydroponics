@@ -6,6 +6,8 @@
 
 * ## [crystallizing_struvite_to_concentrate_phosphorous_c](crystallizing_struvite_to_concentrate_phosphorous_c.md)  
 
+* ## [crystallizing_struvite_to_concentrate_phosphorous_d](crystallizing_struvite_to_concentrate_phosphorous_d.md)  
+
 ---
 
 //----//
