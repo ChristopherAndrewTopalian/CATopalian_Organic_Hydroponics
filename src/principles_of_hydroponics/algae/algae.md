@@ -2,7 +2,7 @@
 
 Algae quickly destroys all roots!
 
-You must never have algae or it will destroy the plants!
+We must never have algae or it will destroy the plants!
 
 Block ALL light from entering the nutrient solution water!
 

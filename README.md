@@ -1,11 +1,11 @@
-# CATopalian_Hydroponics
+# CATopalian_Organic_Hydroponics
 We make hydro easy. Check it out. I promise.
 
 ---
 
 # Principles of Hydroponics
 > 1. [Algae](src/principles_of_hydroponics/algae/algae.md)  
-> You must block all light from hitting the nutrient solution or else Algae will destroy the roots fast!
+> We must block all light from hitting the nutrient solution or else Algae will destroy the roots fast!
 
 > 2. [Temperature](src/principles_of_hydroponics/temperature/temperature.md)  
 > The plants REQUIRE a cool temperature for hydro to work efficiently!
@@ -66,6 +66,31 @@ When the water is dirty we change the water quickly because it is a bowl system 
 ---
 
 # [Cardboard Box Method Step by Step Instructions](src/step_by_step_instructions/cardboard_box_step_by_step.md)  
+
+---
+
+# Organic Nutrient Solutions
+
+[Urine Nutrient Solution](src/method/nutrient_solution/urine_nutrient_solution/urine_nutrient_solution.md)  
+
+[Phosphateification Tower](src/method/nutrient_solution/urine_nutrient_solution/phosphorous/struvite/crystallizing_struvite_to_concentrate_phosphorous.md)  
+
+---
+
+## Organic Plant Fertilizer
+### Microbial Nitrate Extractor
+* 5 gallon bucket
+* Drill holes at bottom
+* Fill with soil
+* Every day pour your urine
+* After 7 to 10 days run water through
+* Catch runoff in bowl
+* Use the Water immediately on plants as fertilizer OR
+* Let the water Evaporate if you want concentrated powder version.
+
+It's Sodium Free Organic Plant Fertilizer!  
+
+It's Hydroponics made easy!
 
 ---
 

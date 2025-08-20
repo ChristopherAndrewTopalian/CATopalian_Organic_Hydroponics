@@ -45,32 +45,6 @@ The truth is they do have lots of space.
 
 We have utilzied space and minimized the amount of water needed!
 
-The bowl of nutrients is very easy to make.
-
-Start slow with 1:100 solution.
-
-When we make our nutrient solution, we always add the same amount.
-
-If you don't change the bowls water and instead just add more fertilizer every 5 days eventually the bowl will get dirty and the roots will suffer.
-
-Therefore, it is better to change the bowls on schedule to avoid any issues at all!
-
-Let's say that every 5 days for now, to be safe, you change the nutrient solution.
-
-Each time you do it you weight out exactly the amount you will use for each thing using a scale.
-
-Make sure you have a kitchen scale that has multiple zeros after the decimal point for better accuracy.
-
-Each time you change the bowl, you will be putting the same amount in.
-
-Thus, the plants will never have accumulation shock!
-
-This is very important!
-
-While it might seem like more work to change the bowl often, it prevents any issues!
-
-NO issues means a good crop!
-
 The inside of the home depot small cardboard box on its side is about 11" total, so if you try a 12" bowl it will push the walls of the cardboard box out alot.  
 
 # Inexpesive Bowls
