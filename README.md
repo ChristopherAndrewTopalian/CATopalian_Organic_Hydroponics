@@ -57,13 +57,7 @@ Instead we can use any bowl for containing the liquid and we keep the roots heal
 
 Because the bowl is white or clear we can see when the water is dirty and thus when it needs changing.
 
-If you see leafs turning yellow that means all of the nitrogen in the bowl has been used up and you need to add more urine fertilizer.
-
-You can use an eye dropper and put another 1ml of urine in the container that has about 16oz of water OR...
-
-... or we can take the opportunity to change the water too, so that the roots will have a nice clean start of clean water and the new fertilization too.
-
-We let the plants tell us when they need more nitrogen!
+If you see leafs turning yellow that means all of the nitrogen in the bowl has been used up and you need to add more fertilizer.
 
 When the water is dirty we change the water quickly because it is a bowl system that is very small and easy to change out.
 
