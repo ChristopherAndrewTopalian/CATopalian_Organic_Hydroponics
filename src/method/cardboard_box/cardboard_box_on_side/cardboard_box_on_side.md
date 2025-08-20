@@ -42,11 +42,6 @@ Just make sure to measure inside your box before buying bowls. Home depot small 
 
 ---
 
-The organic nutrient solution is very easy:
-1:100 ratio of urine to water.
-
----
-
 If we don't have one large container to put the organic solution in, we can use multiple smaller containers.
 
 ---
