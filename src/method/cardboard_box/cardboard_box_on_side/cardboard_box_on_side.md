@@ -42,10 +42,6 @@ Just make sure to measure inside your box before buying bowls. Home depot small 
 
 ---
 
-If we don't have one large container to put the organic solution in, we can use multiple smaller containers.
-
----
-
 The gallon jugs make it very easy to change the solution out with another gallon jug that we prepare.
 
 In this way our organic nutritent solution is always fresh and never causing the roots any kind of bacterial burden.
