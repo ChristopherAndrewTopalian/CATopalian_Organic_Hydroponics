@@ -2,7 +2,7 @@
 
 ![001](textures/001.png)  
 
-With a 5 Gallon plastic flower pot we can make shift lid out of cardboard and we can easily put organic nutrient solution that we keep in a 1 gallon jug or other wide and deep container inside of the 5 Gallon flower pot.
+With a 5 Gallon plastic flower pot we can make shift lid out of cardboard and we can easily put nutrient solution that we keep in a 1 gallon jug or other wide and deep container inside of the 5 Gallon flower pot.
 
 We then place our plant on top of our flower pot cardboard cover hole or make shift cover that has a hole that allows the roots to descend.
 
@@ -12,7 +12,7 @@ The idea is that the flower pot gives the roots the impression that it is very s
 
 This will make many air roots.
 
-On the bottom is our organic nutrient solution that can be in a bowl or any container that is wide and deep.
+On the bottom is our nutrient solution that can be in a bowl or any container that is wide and deep.
 
 ---
 

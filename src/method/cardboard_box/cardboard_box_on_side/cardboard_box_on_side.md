@@ -22,7 +22,7 @@ Here we see two carboard boxes next to each other, each with their own single pl
 
 ![003](textures/003.png)  
 
-A small home depot cardboard box on its side is very tall and blocks all light. On the floor where one side sits, we place our gallon jug of water and organic solution.
+A small home depot cardboard box on its side is very tall and blocks all light. On the floor where one side sits, we place our gallon jug of water and solution.
 
 The plant we put on top where the box handle is and the roots descend into the gallon container that is on the floor in the box.
 
@@ -44,7 +44,7 @@ Just make sure to measure inside your box before buying bowls. Home depot small 
 
 The gallon jugs make it very easy to change the solution out with another gallon jug that we prepare.
 
-In this way our organic nutritent solution is always fresh and never causing the roots any kind of bacterial burden.
+In this way our nutritent solution is always fresh and never causing the roots any kind of bacterial burden.
 
 ---
 

@@ -1,5 +1,5 @@
-# CATopalian_Organic_Hydroponics
-We make organic hydro easy. Check it out. I promise.
+# CATopalian_Hydroponics
+We make hydro easy. Check it out. I promise.
 
 ---
 
@@ -47,7 +47,7 @@ We make organic hydro easy. Check it out. I promise.
 
 ---
 
-This is the CATopalian Organic Hydroponics System.
+This is the CATopalian Hydroponics System.
 
 We do NOT need a bubbler.
 
