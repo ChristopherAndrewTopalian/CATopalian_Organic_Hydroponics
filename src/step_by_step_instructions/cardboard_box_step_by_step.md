@@ -51,8 +51,6 @@ Start slow with 1:100 solution.
 
 When we make our nutrient solution, we always add the same amount.
 
-Depending on how fast your plants are drinking the nitrogen, will be one determining factor on how often to change the bowls water.
-
 If you don't change the bowls water and instead just add more fertilizer every 5 days eventually the bowl will get dirty and the roots will suffer.
 
 Therefore, it is better to change the bowls on schedule to avoid any issues at all!
