@@ -12,31 +12,6 @@ We make organic hydro easy. Check it out. I promise.
 
 ---
 
-# Organic Nutrient Solutions
-
-[Urine Nutrient Solution](src/method/nutrient_solution/urine_nutrient_solution/urine_nutrient_solution.md)  
-
-[Phosphateification Tower](src/method/nutrient_solution/urine_nutrient_solution/phosphorous/struvite/crystallizing_struvite_to_concentrate_phosphorous.md)  
-
----
-
-## Organic Plant Fertilizer
-### Microbial Nitrate Extractor
-* 5 gallon bucket
-* Drill holes at bottom
-* Fill with soil
-* Every day pour your urine
-* After 7 to 10 days run water through
-* Catch runoff in bowl
-* Use the Water immediately on plants as fertilizer OR
-* Let the water Evaporate if you want concentrated powder version.
-
-It's Sodium Free Organic Plant Fertilizer!  
-
-It's Hydroponics made easy!
-
----
-
 # Systems
 
 ![001](src/method/cardboard_box/cardboard_box_on_side/textures/001.png)  
