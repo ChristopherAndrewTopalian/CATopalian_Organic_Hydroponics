@@ -12,7 +12,7 @@ This is more obvious with organics, but listen, the same issue is happening with
 
 3. Without compost the nitrification tower is almost guranteed to fail and not nitrify, due to a lack of nitrifying bacteria, from a lack of compost!.
 
-
+4. Do NOT put worm castings in the water or it will smell horrible!
 
 # Principles of Hydroponics
 > 1. [Algae](src/principles_of_hydroponics/algae/algae.md)  
