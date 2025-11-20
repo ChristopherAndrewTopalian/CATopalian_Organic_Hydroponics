@@ -5,7 +5,6 @@ We make hydro easy. Check it out. I promise.
 
 # LESSON ONE:
 1. Do NOT do Hydro inside without adequate ventillation!
-
 This is more obvious with organics, but listen, the same issue is happening with the chemical versions. At no time should a person grow any plants in a house without proper ventillation going 24/7!
 
 2. The nitrification tower will NOT nitrify in cold weather and instead will result in only ammonium that will burn the roots and plant leafs.
