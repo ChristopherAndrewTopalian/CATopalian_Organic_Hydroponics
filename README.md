@@ -13,6 +13,8 @@ This is more obvious with organics, but listen, the same issue is happening with
 
 4. Do NOT put worm castings in the water or it will smell horrible!
 
+5. If you don't have REALLY GOOD VENTILLATION then don't grow plants indoors due to the chemical dangers associated with the things needed to achieve the plants optimal growth.
+
 # Principles of Hydroponics
 > 1. [Algae](src/principles_of_hydroponics/algae/algae.md)  
 > We must block all light from hitting the nutrient solution or else Algae will destroy the roots fast!
