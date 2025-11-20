@@ -8,6 +8,10 @@ We make hydro easy. Check it out. I promise.
 
 This is more obvious with organics, but listen, the same issue is happening with the chemical versions. At not time should a person grow anything in the house without proper ventillation going 24/7!
 
+2. The nitrification tower will NOT nitrify in cold weather and instead will result in only ammonium that will burn the roots and plant leafs.
+
+3. Without compost the nitrification tower is almost guranteed to fail and not nitrify, due to a lack of nitrifying bacteria, from a lack of compost!.
+
 # Principles of Hydroponics
 > 1. [Algae](src/principles_of_hydroponics/algae/algae.md)  
 > We must block all light from hitting the nutrient solution or else Algae will destroy the roots fast!
