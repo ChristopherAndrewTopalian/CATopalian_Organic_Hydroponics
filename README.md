@@ -6,11 +6,13 @@ We make hydro easy. Check it out. I promise.
 # LESSON ONE:
 1. Do NOT do Hydro inside without adequate ventillation!
 
-This is more obvious with organics, but listen, the same issue is happening with the chemical versions. At not time should a person grow anything in the house without proper ventillation going 24/7!
+This is more obvious with organics, but listen, the same issue is happening with the chemical versions. At no time should a person grow any plants in a house without proper ventillation going 24/7!
 
 2. The nitrification tower will NOT nitrify in cold weather and instead will result in only ammonium that will burn the roots and plant leafs.
 
 3. Without compost the nitrification tower is almost guranteed to fail and not nitrify, due to a lack of nitrifying bacteria, from a lack of compost!.
+
+
 
 # Principles of Hydroponics
 > 1. [Algae](src/principles_of_hydroponics/algae/algae.md)  
