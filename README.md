@@ -3,6 +3,11 @@ We make hydro easy. Check it out. I promise.
 
 ---
 
+# LESSON ONE:
+1. Do NOT do Hydro inside without adequate ventillation!
+
+This is more obvious with organics, but listen, the same issue is happening with the chemical versions. At not time should a person grow anything in the house without proper ventillation going 24/7!
+
 # Principles of Hydroponics
 > 1. [Algae](src/principles_of_hydroponics/algae/algae.md)  
 > We must block all light from hitting the nutrient solution or else Algae will destroy the roots fast!
